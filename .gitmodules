@@ -1,3 +1,4 @@
 [submodule "jc"]
 	path = jc
 	url = https://github.com/Ishwarya27/jc
+	branch = main
